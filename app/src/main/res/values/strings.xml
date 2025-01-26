@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiciosBasicos</string>
+    <string name="btn_text_registrar_medicion">Registrar Medición</string>
+    <string name="tittle_registro_medidor">Registro Medidor</string>
+</resources>

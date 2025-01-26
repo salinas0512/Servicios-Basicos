@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicServices</string>
+    <string name="btn_text_registrar_medicion">Record Measurement</string>
+    <string name="tittle_registro_medidor">Meter Register</string>
+</resources>
